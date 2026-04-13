@@ -19,6 +19,7 @@
 * **Magic Orb System:** Created using a combination of billboard planes and particle systems. It utilizes "Set Color over life" for pulsing effects and random turbulence for magical instability.
 * **Object Pooling:** Projectiles are managed via an object pooling system to minimize memory allocation and garbage collection overhead during intense combat.
 * **Collision Matrix:** Custom physics layers prevent projectile-player clipping, ensuring spells originate correctly from the camera center without colliding with the player's own hitbox.
+![MagicBall](Documentation/BasicMagicBall.gif)
 
 ### AI and Wave Management
 * **Zombie Intelligence:** Agents utilize NavMesh for navigation. The AI logic includes a "Search and Destroy" behavior where enemies patrol a randomized area around the player before engaging in a direct chase.
