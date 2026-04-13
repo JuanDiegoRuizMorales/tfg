@@ -13,6 +13,8 @@
 * **Procedural Body Rendering:** The player model is fully rendered to project accurate shadows. A custom shader setup manages material transparency for the head and arms to prevent camera clipping while maintaining shadow casting.
 * **Movement Mechanics:** Includes a stamina-based sprinting system and a dash mechanic for evasion.
 
+![PlayerMovement](Documentation/HandMovement.gif)
+
 ### Combat and VFX
 * **Magic Orb System:** Created using a combination of billboard planes and particle systems. It utilizes "Set Color over life" for pulsing effects and random turbulence for magical instability.
 * **Object Pooling:** Projectiles are managed via an object pooling system to minimize memory allocation and garbage collection overhead during intense combat.
@@ -23,6 +25,8 @@
 * **Wave Controller:** * Dynamic difficulty scaling: Enemy health and spawn counts increase per round.
     * Optimized Spawning: Spawn points are activated or deactivated based on player proximity and world progression.
     * Hard cap of 50 active agents to maintain performance stability.
+
+![ZombieWaves](Documentation/ZombieWavesExample.gif)
 
 ---
 
