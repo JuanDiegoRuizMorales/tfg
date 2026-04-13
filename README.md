@@ -43,7 +43,9 @@ The user interface is integrated directly into the game world through the player
 
 ### Completed Milestones
 * Implementation of the core movement framework and custom physics configuration.
+  ![BasicPlayerMovement](Documentation/InitialPlayerController.gif)
 * VFX pipeline for spellcasting and enemy feedback (spawn/death effects).
+  ![ZombieDeath](Documentation/ZombieDeath.gif)
 * Interactive environment systems, including point-based door unlocking and NavMesh updates.
 * Weapon inventory and experience scaling logic.
 
@@ -52,9 +54,14 @@ The user interface is integrated directly into the game world through the player
 * Optimizing frame rates during high-density waves.
 
 ### Planned Features
-* Implementation of dissolution shaders for environmental transitions.
-* Expansion of the magic upgrade tree within the grimoire interface.
 * Player death state and game-over loop.
+* Complete map desing.
+* Implementation of a complete sound system with zombie hit, player death, weapon reload, zombies screams sounds.
+* Power-up system with match buffs to the player.
+* More spells.
+* Altar-based power-up weapon evolution system to encourage player to explore the map.
+* Expansion of the magic upgrade tree within the grimoire interface.
+* Implementation of fog shader to improve the overall aesthetics of the game
 
 ---
 
