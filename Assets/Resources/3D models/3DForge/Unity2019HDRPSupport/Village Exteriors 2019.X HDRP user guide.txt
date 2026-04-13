@@ -1,0 +1,38 @@
+IMPORTANT >>> Please Note:
+
+I decided to provide this as I had a user that wanted to use the package in HDRP but everything was pink.
+I zipped my folder, gave it to him and all worked on his side as well.
+So this will save time to anyone that want to experiment with HDRP out the box.
+
+
+This Village Exteriors 2019.X HDRP Materials forlder and it's contents is provided as experimantal.
+I will update it when I get to it, but with Unity changing things on a regular basis some things might at times not be perfect.
+Please let me know about any bugs or suggestions via email or Discord.
+I have used the built in Unity Shader/Material converter tools.
+I am an artist, so I have no clue how to code, so them breaking stuff is out of my control. 
+
+
+How to use:
+What I did was, convert the materials, then went and chose different shaders where Unity got the automated process wrong.
+It is very simple. You back your current Material folder up and replace with this one.
+Do not do it by overwriting, replace.
+Delete the folder after backup, then paste this complete folder after unzipping it.
+
+
+Feedback Please:
+I have done basic tests by looking at a selection of prefabs with this new materials.
+But if you do find something that I have missed, then please email me with a possible screenshot and prefabs root folder so that I can improve the included file.
+
+
+Enjoy
+Cobus
+info@3dforge.co.za
+
+Follow me on
+Discord  >>> https://discord.gg/ugN2CHr
+Twitter  >>> @3DForge
+Facebook >>> https://www.facebook.com/pages/3DForge/535899169786851
+
+Website  >>> http://www.3dforge.co.za/ 
+You are allowed to use the textures with the 3D model but not extract and resell the texture itself
+One or more textures on these 3D models have been created with images from CGTextures.com 
